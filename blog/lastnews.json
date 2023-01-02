@@ -1,0 +1,30 @@
+{
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": "1",
+      "title": "خدماتنا المميزة",
+      "image": "service",
+      "date": "يناير 22 , 2022"
+    },
+    {
+        "id": "1",
+        "title": "خدماتنا المميزة",
+        "image": "service",
+        "date": "يناير 22 , 2022"
+      },
+      {
+        "id": "1",
+        "title": "خدماتنا المميزة",
+        "image": "service",
+        "date": "يناير 22 , 2022"
+      },
+      {
+        "id": "1",
+        "title": "خدماتنا المميزة",
+        "image": "service",
+        "date": "يناير 22 , 2022"
+      }
+  ]
+}
