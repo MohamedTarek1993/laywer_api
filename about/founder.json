@@ -2,32 +2,28 @@
   "status": true,
   "message": "success",
   "data": {
-    "image": "goals.jpg",
+    "text": "هنا ستجد كل المحامين بالمملكة العربية السعودية , يمكنك استخدام الفلتر الموجود بالجانب الأيمن للوصول الى المحامي المناسب لك",
     "cards": [
-        {
-        "id":1,
-        "image": "founder1",
-        "position":"رئيس مجلس الادراة",
-        "name":"المهندس ابراهيم الرفاعي"
-    },
-    {
-        "id":2,
-        "image": "founder2",
-        "position":"رئيس مجلس الادراة",
-        "name":"  أ/ تركي"
-    },
-    {
-        "id":3,
-        "image": "founder3",
-        "position":"رئيس مجلس الادراة",
-        "name":" أ/ سعد"
-    },
-    {
-        "id":4,
-        "image": "founder4",
-        "position":"رئيس مجلس الادراة",
-        "name":"أ/ سامي فهاد"
-    }
-]
+      {
+        "id": 1,
+        "image": "founder1.jpg",
+        "name": "المهندس ابراهيم الرفاعي"
+      },
+      {
+        "id": 2,
+        "image": "founder2.jpg",
+        "name": "  أ/ تركي"
+      },
+      {
+        "id": 3,
+        "image": "founder3.jpg",
+        "name": " أ/ سعد"
+      },
+      {
+        "id": 4,
+        "image": "founder4.jpg",
+        "name": "أ/ سامي فهاد"
+      }
+    ]
   }
 }
