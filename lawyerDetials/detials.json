@@ -28,11 +28,10 @@
       "التصديق على المستندات والعقود كافة بوزارة الخارجية "
     ],
     "images": [
-      { "src":  "https://i.ibb.co/XD8zb7d/card2.jpg" ,  "alt": "image 1"  },
-      { "src":  "https://i.ibb.co/Cmhnh5M/licence.png"  ,  "alt": "image 2" },
-       { "src":  "https://i.ibb.co/XD8zb7d/card2.jpg"  ,  "alt": "image 3" },
-      { "src":  "https://i.ibb.co/Cmhnh5M/licence.png"   ,  "alt": "image 4"}
-     
+      { "src": "https://i.ibb.co/XD8zb7d/card2.jpg", "alt": "image 1" },
+      { "src": "https://i.ibb.co/Cmhnh5M/licence.png", "alt": "image 2" },
+      { "src": "https://i.ibb.co/XD8zb7d/card2.jpg", "alt": "image 3" },
+      { "src": "https://i.ibb.co/Cmhnh5M/licence.png", "alt": "image 4" }
     ],
     "facebook_link": "#",
     "twitter_link": "#",
